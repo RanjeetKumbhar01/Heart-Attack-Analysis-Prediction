@@ -9,9 +9,7 @@ Github: https://github.com/RanjeetKumbhar01/Heart-Attack-Analysis-Prediction
     3) Random Forest Classifier:       0.8032786885245902
     4) XGBClassifier:                  0.819672131147541
     5) Neural Network:                 0.9
-    
-Enjoy the Notebook :)<br>
-@Ranjeetkumbhar01<br><br><br>
+ 
 # Neural Net<br><br>
 ![image](https://user-images.githubusercontent.com/90677720/198217407-e9fcedfb-cdb5-4ec5-b035-230bac1748a9.png)<br><br><br><br><br>
 ![image](https://user-images.githubusercontent.com/90677720/198217497-5dff567b-3e0c-475f-bcc0-6a274a3bfc88.png)<br><br><br><br><br>
